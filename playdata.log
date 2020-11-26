@@ -1,0 +1,34 @@
+- Log4jTest.java pd가 아닌 사람이 접속 시도를 했음
+- Log4jTest.java pd가 아닌 사람이 접속 시도를 했음
+- Log4jTest.java pd님 로그인 성공
+- Log4jTest.java pd가 아닌 사람이 접속 시도를 했음
+- Sl4jTest.java slf4
+2020-11-09 16:51:18,301 TRACE (Log4jReview.java:10) - id 로그인 성공
+2020-11-09 16:51:18,303 TRACE (Log4jReview.java:12) - id 로그인 실패
+2020-11-09 16:53:18,639 TRACE (Slf4jReivew.java:9) - id 로그인 성공
+2020-11-09 16:53:18,641 TRACE (Slf4jReivew.java:11) - id 로그인 실패
+2020-11-09 17:01:42,807 TRACE (Slf4jReivew.java:10) - id 로그인 성공
+2020-11-09 17:01:42,810 TRACE (Slf4jReivew.java:13) - id 로그인 실패
+2020-11-09 17:05:41,984 TRACE (Slf4jReivew.java:11) - id 로그인 성공
+2020-11-09 17:05:41,988 TRACE (Slf4jReivew.java:17) - 누군가가 로그인 중입니다.
+2020-11-09 17:05:41,989 TRACE (Slf4jReivew.java:14) - id 로그인 실패
+2020-11-09 17:05:41,989 TRACE (Slf4jReivew.java:11) - id 로그인 성공
+2020-11-09 17:11:02,294 TRACE (Slf4jReivew.java:13) - id 로그인 성공
+2020-11-09 17:11:09,321 TRACE (Slf4jReivew.java:19) - 누군가가 로그인 중입니다.
+2020-11-09 17:11:14,108 TRACE (Slf4jReivew.java:13) - id 로그인 성공
+2020-11-09 17:30:12,408 TRACE (Slf4jReivew.java:13) - id 로그인 성공
+2020-11-09 17:30:19,324 TRACE (Slf4jReivew.java:19) - 누군가가 로그인 중입니다.
+2020-11-09 17:30:19,324 TRACE (Slf4jReivew.java:24) - 로그아웃
+2020-11-09 17:30:25,728 TRACE (Slf4jReivew.java:16) - id 로그인 실패
+2020-11-09 17:39:47,151 TRACE (Slf4jReivew.java:13) - 로그인 성공
+2020-11-09 17:39:53,337 TRACE (Slf4jReivew.java:19) - 로그인 실패
+2020-11-09 17:39:53,337 TRACE (Slf4jReivew.java:24) - 로그아웃
+2020-11-09 17:40:10,572 TRACE (Slf4jReivew.java:13) - 로그인 성공
+2020-11-09 17:54:06,725 TRACE (Slf4jReivew.java:19) - 로그인 실패
+2020-11-09 17:54:08,069 TRACE (Slf4jReivew.java:19) - 로그인 실패
+2020-11-09 17:54:08,069 TRACE (Slf4jReivew.java:27) - 이미 로그아웃 상태입니다.
+2020-11-09 17:54:10,877 TRACE (Slf4jReivew.java:19) - 로그인 실패
+2020-11-09 17:54:14,688 TRACE (Slf4jReivew.java:13) - 로그인 성공
+2020-11-09 17:54:17,370 TRACE (Slf4jReivew.java:16) - 누군가가 로그인 중입니다.
+2020-11-09 17:54:17,370 TRACE (Slf4jReivew.java:25) - 로그아웃
+2020-11-09 17:54:21,733 TRACE (Slf4jReivew.java:13) - 로그인 성공
